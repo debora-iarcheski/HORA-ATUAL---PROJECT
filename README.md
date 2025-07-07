@@ -21,6 +21,6 @@ Um site simples que exibe a hora atual e muda o fundo e a imagem de acordo com o
 - CSS3
 - JavaScript (puro)
 - 
-👩‍💻 Autor
+
 Feito com 💙 por Débora Iarcheski<br>
 [LinkedIn](https://www.linkedin.com/in/debora-iarcheski/)
